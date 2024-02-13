@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\bin\Debug\örn.exe.config
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\bin\Debug\örn.exe
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\bin\Debug\örn.pdb
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.exe
+C:\Users\User\Desktop\KORUMASIZ\h\örn\örn\obj\Debug\örn.pdb
